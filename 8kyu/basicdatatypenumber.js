@@ -9,7 +9,7 @@ I've written five function equal1,equal2,equal3,equal4,equal5, defines six globa
 When you have finished the work, click "Run Tests" to see if your code is working properly.
 
 In the end, click "Submit" to submit your code pass this kata. */
-"let v1 = 50,
+let v1 = 50,
     v2 = 100,
     v3 = 150,
     v4 = 200,
@@ -45,4 +45,4 @@ function equal5(){
   let a =v6  , //set number value to a
       b =v3; //set number value to b
   return a % b;
-}"
+}
